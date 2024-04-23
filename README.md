@@ -1,1 +1,1 @@
-# OpenGLSolution
+# OpenGLPractice
